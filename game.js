@@ -58,7 +58,7 @@ playAgainButton.addEventListener('click', function(){
     countryNameArray = []
     countyCodeArray = []
     refreshPage()
-    resultTextElement.innerHTML = 'Wha is the Correct Capital'
+    resultTextElement.innerHTML = 'What is the Correct Capital'
 })
 
 //// TODO when the page loads, select an element at random from the countriesAndCodes array
